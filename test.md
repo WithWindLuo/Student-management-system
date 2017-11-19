@@ -7,7 +7,7 @@
 
 - ##### 通用寄存器：
  ![](https://github.com/WitWindLuo/ctf_web/blob/master/src/1510726979294.png)
-EAX:常用来进行运算，DS作为段寄存器、选择器
+EAX:常用来进行运算，DS作为段寄存器、选择器<br>
 EBX:常用来作内存偏移指针，DS作为段寄存器、选择器
 ECX:常用来当计数器使用，DS作为段寄存器、选择器
 EDX:常用来当作EAX的溢出寄存器使用，DS作为段寄存器、选择器
