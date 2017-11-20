@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1484820363 source:c:\users\pc\desktop\student2\stu\in.c
+	"stu.h"
+
+1484816203 c:\users\pc\desktop\student2\stu\stu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1484821001 source:c:\users\pc\desktop\student2\stu\main.c
+	"stu.h"
+
+1484816182 source:c:\users\pc\desktop\student2\stu\out.c
+	"stu.h"
+
+1485150291 source:c:\users\luo\desktop\student2\stu\main.c
+	"stu.h"
+
+1485150612 c:\users\luo\desktop\student2\stu\stu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1485060184 source:c:\users\luo\desktop\student2\stu\in.c
+	"stu.h"
+
+1484978300 source:c:\users\luo\desktop\student2\stu\out.c
+	"stu.h"
+
+1484816204 source:c:\users\luo\desktop\student2\stu\stu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1485059964 source:c:\users\luo\desktop\student2\stu\change.c
+	"stu.h"
+
+1485000524 source:c:\users\luo\desktop\student2\stu\table.c
+	"stu.h"
+
+1485056486 source:c:\users\luo\desktop\student2\stu\del.c
+	"stu.h"
+
+1485016517 source:c:\users\luo\desktop\student2\stu\debug.c
+	"stu.h"
+
+1485019451 source:c:\users\luo\desktop\student2\stu\sorting1.c
+	"stu.h"
+
+1485018582 source:c:\users\luo\desktop\student2\stu\sorting2.c
+	"stu.h"
+
+1484984217 source:c:\users\luo\desktop\student2\stu\sorting.c
+	"stu.h"
+
+1485019659 source:c:\users\luo\desktop\student2\stu\ranking.c
+	"stu.h"
+
+1485059821 source:c:\users\luo\desktop\student2\stu\login.c
+	"stu.h"
+
+1485414872 source:c:\users\luo\desktop\student2 - 副本\stu\change.c
+	"stu.h"
+
+1485421164 c:\users\luo\desktop\student2 - 副本\stu\stu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1485016517 source:c:\users\luo\desktop\student2 - 副本\stu\debug.c
+	"stu.h"
+
+1485410547 source:c:\users\luo\desktop\student2 - 副本\stu\del.c
+	"stu.h"
+
+1485410627 source:c:\users\luo\desktop\student2 - 副本\stu\in.c
+	"stu.h"
+
+1485410646 source:c:\users\luo\desktop\student2 - 副本\stu\login.c
+	"stu.h"
+
+1485410621 source:c:\users\luo\desktop\student2 - 副本\stu\out.c
+	"stu.h"
+
+1485019659 source:c:\users\luo\desktop\student2 - 副本\stu\ranking.c
+	"stu.h"
+
+1485410616 source:c:\users\luo\desktop\student2 - 副本\stu\sorting.c
+	"stu.h"
+
+1485151038 source:c:\users\luo\desktop\student2 - 副本\stu\sorting1.c
+	"stu.h"
+
+1485151037 source:c:\users\luo\desktop\student2 - 副本\stu\sorting2.c
+	"stu.h"
+
+1485410623 source:c:\users\luo\desktop\student2 - 副本\stu\table.c
+	"stu.h"
+
+1485410206 source:c:\users\luo\desktop\student2 - 副本\stu\main.c
+	"stu.h"
+
+1485419812 source:c:\users\luo\desktop\student2 - 副本\stu\checkname.c
+	"stu.h"
+
+1485410151 source:c:\users\luo\desktop\student2 - 副本\stu\checkxh.c
+	"stu.h"
+
+1485408607 source:c:\users\luo\desktop\student2 - 副本\stu\copy.c
+	"stu.h"
+
+1485421125 source:c:\users\luo\desktop\student2 - 副本\stu\checkname2.c
+	"stu.h"
+
+1485421205 source:c:\users\luo\desktop\student2 - 副本\stu\checkxh2.c
+	"stu.h"
+

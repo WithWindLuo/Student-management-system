@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="stu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/stu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/stu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="change.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="checkname.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="checkname2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="checkxh.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="checkxh2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="del.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="in.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="out.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ranking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sorting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sorting1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sorting2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stu.h">
+			<Option compile="1" />
+			<Option link="1" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
