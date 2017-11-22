@@ -1,3 +1,2 @@
 # Student-management-system
-C
-用codeblocks写的
+学生成绩管理  by codeblocks
